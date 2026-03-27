@@ -37,7 +37,7 @@ function App() {
                 {
                   name: "dashboard",
                   list: "/",
-                  meta: { label: "home", icon: <Home /> },
+                  meta: { label: "Home", icon: <Home /> },
                 },
                 {
                   name: "subjects",
